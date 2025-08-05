@@ -1,5 +1,4 @@
-# ethical-hacking-maktabkhooneh
-# 🎭 Ethical Hacking Course – Maktabkhooneh
+#  Ethical Hacking Course – Maktabkhooneh
 
 > **"Hack the planet – but ethically!"** 🕶️💻  
 
