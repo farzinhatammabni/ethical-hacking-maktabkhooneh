@@ -2,9 +2,6 @@
 # 🎭 Ethical Hacking Course – Maktabkhooneh
 
 > **"Hack the planet – but ethically!"** 🕶️💻  
-> ![Hacker Mask](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Anonymous_Mask.svg/1024px-Anonymous_Mask.svg.png)
-
----
 
 ## 📜 About the Course
 
